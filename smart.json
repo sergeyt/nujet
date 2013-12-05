@@ -1,0 +1,8 @@
+{
+  "name": "nujet",
+  "description": "NuGet client",
+  "homepage": "https://github.com/sergeyt/nujet",
+  "author": "Sergey Todyshev",
+  "version": "0.0.1",
+  "git": "https://github.com/sergeyt/nujet.git"
+}
